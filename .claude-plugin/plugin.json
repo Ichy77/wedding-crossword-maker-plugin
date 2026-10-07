@@ -1,0 +1,14 @@
+{
+  "name": "wedding-crossword-maker",
+  "displayName": "Wedding Crossword Maker",
+  "version": "1.0.0",
+  "description": "Create a personalised wedding crossword from the couple's story, plus matching welcome sign, menu card, place cards, word search, bingo and quiz. Print-ready PDFs and an online play mode for guests, free and without sign-up.",
+  "author": {
+    "name": "Wedding Crossword Maker",
+    "url": "https://www.wedding-crossword-maker.com"
+  },
+  "homepage": "https://www.wedding-crossword-maker.com/ki-konnektor",
+  "repository": "https://github.com/Ichy77/wedding-crossword-maker-plugin",
+  "license": "MIT",
+  "keywords": ["wedding", "crossword", "stationery", "games", "printable"]
+}

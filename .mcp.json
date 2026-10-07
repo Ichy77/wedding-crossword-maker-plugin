@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wedding-crossword-maker": {
+      "type": "http",
+      "url": "https://www.wedding-crossword-maker.com/api/mcp"
+    }
+  }
+}
